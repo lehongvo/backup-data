@@ -1,0 +1,34 @@
+# Environment and virtual environments
+.env
+.venv/
+
+# Test coverage
+coverage
+coverage.json
+
+# TypeScript typings
+typechain
+typechain-types
+
+# Cache
+__pycache__/
+.cache/
+
+# Build artifacts
+artifacts
+cache
+
+# Dependency lock file
+yarn.lock
+
+# Node modules
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Deployment folder
+deployments
